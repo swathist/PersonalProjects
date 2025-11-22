@@ -1,0 +1,3 @@
+[submodule "qemu-simulator/toolchains/crosstool-ng"]
+	path = qemu-simulator/toolchains/crosstool-ng
+	url = https://github.com/crosstool-ng/crosstool-ng.git
